@@ -16,4 +16,4 @@ function holidayCountdown(holiday, days) {
 }
 
 //Lab didn't specify to make changes the index-test.js.
-//tests won't pass unless 100% exact.
+//see second function(karen)
